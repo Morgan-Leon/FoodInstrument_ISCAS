@@ -1,0 +1,2 @@
+请下安装微软.NET 4.0 控件，DotNetFX40Client
+其中food.sql为数据库文件
